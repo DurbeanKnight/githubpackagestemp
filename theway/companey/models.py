@@ -39,3 +39,5 @@ def delete_employee_media(sender, instance, **kwargs):
         instance.photo.delete(save=False)
 
 # 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
+
+#  echo "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" | docker login ghcr.io -u DurbeanKnight --password-stdin
